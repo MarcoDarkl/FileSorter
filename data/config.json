@@ -1,0 +1,10 @@
+{
+  "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm"],
+  "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".m4a", ".wma"],
+  "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".svg", ".webp", ".ico", ".jfif"],
+  "Documents": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".csv", ".md", ".odt"],
+  "Code": [".py", ".js", ".html", ".css", ".java", ".cpp", ".c", ".cs", ".php", ".json", ".xml", ".sh", ".bat"],
+  "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".iso"],
+  "Executables": [".exe", ".msi", ".apk", ".jar", ".bin", ".deb", ".rpm", ".dmg"],
+  "Games": [".nes", ".gba", ".iso", ".rom", ".pak", ".sav"]
+}
